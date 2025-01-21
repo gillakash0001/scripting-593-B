@@ -1,3 +1,2 @@
-#Print lines from Zen of Python
-print("There should be one-- and preferably only one --obvious way to do it.")
-print("Although that way may not be obvious at first unless you're Dutch.")
+# this is good programming advice 
+print("if the implementation is hard to explain, it's a bad idea.")
